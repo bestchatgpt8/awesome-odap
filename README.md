@@ -22,6 +22,14 @@ semantic context, agentic SQL generation, persistent memory, and governance.
 - [ODAP Landscape 2026 Chinese Report](https://github.com/open-data-agent-platform/awesome-odap/blob/main/reports/ODAP_Landscape_2026_Chinese_Report.pdf)
 - [ODAP professional report page on GoogleSQL.com](https://googlesql.com/odap#professional-reports)
 
+## Adoption
+
+- **CloudSystem Association** — adopted the Five Musts & Scoring Rubric v1.0
+  as the evaluation framework for its "Intelligent SQL Workflows Reference
+  Architecture" program (Resolution CloudSystem-TC-2026-001; conflict-of-interest
+  disclosure published with the resolution).
+  [Governance archive](https://cloudsystem.org/standards/governance/)
+
 ## Why This List Exists
 
 There is no widely maintained encyclopedia entry for "Open Data Agent Platform"
@@ -187,7 +195,7 @@ environment.
 
 ## Evaluation Checklist
 
-Full scoring standard: [ODAP Scoring Rubric v1.0](RUBRIC.md)
+Full scoring standard with 1/3/5 anchors: [ODAP Scoring Rubric v1.0](RUBRIC.md)
 
 Use this checklist to evaluate whether a product belongs in the ODAP category.
 Questions are grouped by the Five Musts:
