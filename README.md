@@ -15,6 +15,7 @@ semantic context, agentic SQL generation, persistent memory, and governance.
 > **Five Musts** (Open, Semantic, Governed, Auditable, Cost-controlled) — are
 > defined in [The ODAP Manifesto](https://googlesql.com/odap/manifesto).
 > This repository is the neutral ecosystem map built around those principles.
+> Reference implementation now open source: [odap-gateway](https://github.com/open-data-agent-platform/odap-gateway) (Apache-2.0, clause-mapped).
 <p align="center">
   <img src="odap-reference-architecture-candy.png" alt="ODAP Reference Architecture — the five layers and Five Musts of the Open Data Agent Platform" width="820">
 </p>
@@ -188,6 +189,9 @@ Initiating signatory of the [ODAP Manifesto](https://googlesql.com/odap/manifest
 and reference implementation of the Five Musts — schema-aware SQL generation,
 dry-run cost estimation, approval flows, and audit trails, starting with
 BigQuery.
+Reference implementation now open source:
+[odap-gateway](https://github.com/open-data-agent-platform/odap-gateway)
+(Apache-2.0, clause-mapped).
 - [Wren AI](https://www.getwren.ai/) - A strong adjacent open-source GenBI
 implementation with context, semantic modeling, policies, memory, and
 governed text-to-SQL.
