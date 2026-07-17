@@ -17,7 +17,7 @@ semantic context, agentic SQL generation, persistent memory, and governance.
 > This repository is the neutral ecosystem map built around those principles.
 > Reference implementation now open source: [odap-gateway](https://github.com/open-data-agent-platform/odap-gateway) (Apache-2.0, [clause-mapped](https://github.com/open-data-agent-platform/odap-gateway/blob/main/ODAP_CLAUSE_MAPPING.md)).
 <p align="center">
-  <img src="odap-reference-architecture-candy.png" alt="ODAP Reference Architecture — the five layers and Five Musts of the Open Data Agent Platform" width="820">
+  <img src="ODAP-Landscape-2026-v1.2.png" alt="ODAP Reference Architecture — the five layers and Five Musts of the Open Data Agent Platform" width="820">
 </p>
 ## Professional Reports
 
